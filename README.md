@@ -1,5 +1,4 @@
-# Dio-Instagram
+# Digital Innovation One - Instagram first page
 
-Primeira tentativa em copiar a interface do Instagram!
-Interessante perceber algumas discrepâncias entre a parte da aula e o desafio em si. Instrutores diferentes focam em métodos diferentes;
-Mas vamos que vamos para ser um Dev!
+Desenvolvimento de página de login do instagram, utilizando os conhecimentos de HTML e CSS aprendidos ao longo do curso.
+A página utiliza apenas HTML e CSS.
